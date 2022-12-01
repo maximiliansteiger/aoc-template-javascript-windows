@@ -1,21 +1,25 @@
 # aoc-template-javascript-windows
 
-## you should use it if you use
+Simple template for Advent of code for javascript
+follow the instructions and happy coding
+
+
+## requirements
 
 - Windows
 - Javascript (NodeJs)
 - vs code
 
 # Folder
-- The data.txt file is where the input data from the challenge goes.
+- The data.txt file includes the input data from the challenge.
 - The readData file reads the input data and exports them as "input" in the js files
-- the data you receive is a long string so it would be wise to split it up into an array 
+- The data you receive is a long String so it would be wise to split it up into an array ( .split("\r\n") )
   
 ![alt text](./img/folder.png)
 
 
 # batch file
-the batch file copies the folder from your C: directory into your current directory and changes the name to the day you passed. After that it opens the directory in vs code and you are ready to code. 
+The batch file copies the folder from your C: directory into your current directory and changes the name to the day you passed as parameter. After that it opens the directory in vs code and you are ready to code. 
 
 ![alt text](./img/batFile.png)
 
