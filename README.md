@@ -1,7 +1,7 @@
 # aoc-template-javascript-windows
 
-# Simple template for Advent of code for javascript
-# follow the instructions and happy coding
+Simple template for Advent of code for javascript
+follow the instructions and happy coding
 
 
 ## requirements
