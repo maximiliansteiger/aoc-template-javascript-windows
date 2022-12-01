@@ -28,6 +28,7 @@ The batch file copies the folder from your C: directory into your current direct
 
 - copy "day-x" into your C: directory 
 - copy "aoc.bat" into your system32 folder 
+- copy "happyCoding.txt" into your system32 folder
  (it is located in C:\Windows\System32)
 
 now you are able to execute the batch file when writing "aoc" and the day you want to solve in your command line.
